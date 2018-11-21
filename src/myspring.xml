@@ -8,7 +8,7 @@
 	<context:component-scan base-package="com.*"></context:component-scan>
 	<bean id="cdao" class="com.cust.CustDao"
 	p:dbip="70.12.111.120"
-	/>
+	</beans>
 </beans>
 
 
